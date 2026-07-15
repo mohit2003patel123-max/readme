@@ -19,22 +19,7 @@
 
 <br/>
 
-## 🧾 Who I Am
 
-```typescript
-const mohit = {
-  title: "CS Student",
-  stack: ["Java", "JavaScript", "HTML5", "CSS3", "SQL", "Git", "GitHub", "VS Code"],
-  launchedProjects: [
-    "Smart Attendance System Using Face Recognition"
-  ],
-  certifications: [],
-  status: "Learning & building real-world projects",
-  openTo: "Full-time opportunities & collaborations"
-};
-```
-
-<br/>
 
 ## 🚀 Featured Projects
 
