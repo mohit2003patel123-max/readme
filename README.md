@@ -28,7 +28,7 @@
 > AI-powered attendance management system that uses face recognition to automatically identify and record student attendance in real time.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit2003patel123-max&repo=smart-attendance-face-recognition&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="Smart Attendance System Using Face Recognition"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit2003patel123-max&repo=smart-attendance-face-recognition&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="https://github.com/mohit2003patel123-max/Smart-Attendance-System"/>
 </div>
 
 | Layer | Technology |
