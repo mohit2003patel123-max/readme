@@ -33,11 +33,11 @@
 
 | Layer | Technology |
 |---|---|
-| Language | Java |
+| Language | python |
 | Data | SQL |
 | Tooling | Git, GitHub, VS Code |
 
-🔗 [Code](https://github.com/mohit2003patel123-max/smart-attendance-face-recognition)
+🔗 [Code](https://github.com/mohit2003patel123-max/Smart-Attendance-System/blob/main/app.py)
 
 <br/>
 
